@@ -2277,6 +2277,9 @@ input, select, textarea {
 			font-size: 1.15em;
 			letter-spacing: 0.05em;
 		}
+	#secondProject{
+		padding-top: 3rem;
+	}
 
 /* Main */
 
@@ -2385,7 +2388,7 @@ input, select, textarea {
 				width: 100%;
 				justify-content: center;
 				justify-content: space-evenly;
-				height: 0.4em;
+				height: 0.1rem;
 			}
 
 
